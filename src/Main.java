@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //Classe Main
 public class Main {
@@ -25,5 +26,12 @@ public class Main {
 
         cc.imprimirExtrato(); //Impressão
         poupanca.imprimirExtrato(); //Impressão
+=======
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+>>>>>>> 73094364a3c84da3bb5c8e80c5bb9ed01ef5b043
     }
 }

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/desafio-banco-dio-marco.iml" filepath="$PROJECT_DIR$/desafio-banco-dio-marco.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/desafio_banco_dio.iml" filepath="$PROJECT_DIR$/desafio_banco_dio.iml" />
+>>>>>>> 73094364a3c84da3bb5c8e80c5bb9ed01ef5b043
     </modules>
   </component>
 </project>
