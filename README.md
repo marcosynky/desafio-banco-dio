@@ -1,4 +1,4 @@
-<h1>Sistema Bancário - Aplicativo Java</h1>
+<h1>Desafio Banco Dio - Aplicativo Java</h1>
 
 <h2>📖 Sobre</h2>
 <p>Sistema Bancário é um projeto simples em Java que simula operações bancárias, como depósito, saque, transferência e impressão de extratos. Ele foi desenvolvido com o objetivo de fornecer uma maneira simples e eficiente de gerenciar contas bancárias, com funcionalidades essenciais para o controle financeiro.</p>
@@ -32,12 +32,13 @@
 <p>Desenvolvedor Java</p>
 
 <p>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/marcosynky" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-nome" target="_blank">
+<a href="https://www.linkedin.com/in/marco-antônio-developer-fullstack" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</a>
+
 </p>
 
 ## 📱 Funcionalidades
